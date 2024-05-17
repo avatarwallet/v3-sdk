@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "⚒️ An SDK for building applications on top of Xeiswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -27,7 +27,7 @@
     "@uniswap/swap-router-contracts": "^1.2.1",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-staker": "1.0.0",
-    "@xeiswap/sdk-core": "^0.0.3",
+    "@xeiswap/sdk-core": "0.0.4",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
