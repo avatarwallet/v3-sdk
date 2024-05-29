@@ -1589,10 +1589,10 @@
     "@uniswap/v3-core" "1.0.0"
     "@uniswap/v3-periphery" "^1.0.1"
 
-"@xeiswap/sdk-core@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.npmjs.org/@xeiswap/sdk-core/-/sdk-core-0.0.5.tgz#f978e77e1fa0074823b38ec9103a2732efc1e48c"
-  integrity sha512-nJ+lDYEgdihcDQUZHadaLdsr6jgtQ7OZ4inAw+3J8hel9AhB+QC2wO79eJj3sabuYy4/n7KZLrLwi9H7/6kcJg==
+"@xeiswap/sdk-core@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.npmjs.org/@xeiswap/sdk-core/-/sdk-core-0.0.6.tgz#c7532bd1da30abf568510ca147740bc13adeb55b"
+  integrity sha512-YPgkCa9Q03N4IfU6Q5xWBEbnZOxro5ZvExD0o73rZbj4dEewLnf9OynDlQnNpvjvoqx0UJTq/rdMZWDplRzAjQ==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
