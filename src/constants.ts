@@ -30,7 +30,8 @@ export const POOL_INIT_CODE_HASHES = {
   // [ChainId.BLAST]: POOL_INIT_CODE_HASH,
   [ChainId.BSC_TESTNET]: '0x6ce8eb472fa82df5469c6ab6d485f17c3ad13c8cd7af59b3d4a8026c5ce0f7e2',
   [ChainId.SEI_TESTNET]: '0xabc9f1f1cc8bce872451d619da557ed6922444352d18683a2075a3ffec32f256',
-  [ChainId.SEI]: '0xabc9f1f1cc8bce872451d619da557ed6922444352d18683a2075a3ffec32f256'
+  [ChainId.SEI]: '0xabc9f1f1cc8bce872451d619da557ed6922444352d18683a2075a3ffec32f256',
+  [ChainId.OPBNB]: '0xabc9f1f1cc8bce872451d619da557ed6922444352d18683a2075a3ffec32f256'
 } as Record<SupportedChainsType, string>
 
 /**
